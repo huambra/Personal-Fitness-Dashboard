@@ -2,7 +2,7 @@
 ### A Data Analysis and Visualization Project
 &nbsp;<br>
 &nbsp;<br>
-![Alt text](https://github.com/huambra/Personal-Fitness-Dashboard/blob/master/Visualizations/final-dashboard.jpg)
+![Alt text](https://github.com/huambra/Personal-Fitness-Dashboard/blob/master/Visualizations/project-portrait.jpg)
 
 ## Table of Contents
 
@@ -35,28 +35,35 @@ Then I started creating pivot tables to create the necessary charts for the dash
 
 ![Mock up](https://github.com/huambra/Personal-Fitness-Dashboard/blob/master/Visualizations/mock-up.jpg)
 
-I evaluated the mockup and decided to improve the dashboard by adjusnting things like legends, y-axis min and max values, gridlines, colors, styles, etc. The final result was the following: 
+I evaluated the mockup and decided to improve the dashboard by adjusnting things like legends, y-axis min and max values, gridlines, colors, styles, etc. The final result was the following:
+
 *to visualize the full dashboard click [here](https://docs.google.com/spreadsheets/d/1hwOEG-T5IJ6-9wilPffjGfQmaruxQwk0Lbe_f9g_1R0/edit?usp=sharing)
 
 ![Dashboard](https://github.com/huambra/Personal-Fitness-Dashboard/blob/master/Visualizations/final-dashboard.jpg)
 
 ## Results
 First, I would like to explore the results of my 76 days experiment, starting with the fact that I was able to gain weight over that period of time. More importantly, due to the right diet, I was able to gain a little over 2 Kg of lean muscle, and you can see that clearly on the Breakfast, Lunch, and Diner’s figures where I was consistently able to complete my meals on the right proportions. 
-![results-breakfas-lunch-diner-1](https://github.com/huambra/Personal-Fitness-Dashboard/blob/master/Visualizations/results-breakfas-lunch-diner-1.jpg)
+
+![restuls-breakfas-lunch-diner-1](https://github.com/huambra/Personal-Fitness-Dashboard/blob/master/Visualizations/restuls-breakfas-lunch-diner-1.jpg)
 
 You can also see a similar pattern in the Exercise, Alcohol, and Parties figures, where I was consistent in doing exercise and giving proper recovery to my body, as well as avoiding too much alcohol and excessive parties that could result in fewer hours of sleep. 
+
 ![results-exercise-alcohol-parties-1](https://github.com/huambra/Personal-Fitness-Dashboard/blob/master/Visualizations/results-exercise-alcohol-parties-1.jpg)
 
 The interesting patterns, however, start to appear when I analyzed the effect each habit (Food, Exercise, Alcohol, Parties) had on my weight over time (by day). I found that my eating habits have a tremendous effect on my weight as we can see in the figure, where there are weight drops after a day of not completing all my meals:
+
 ![restuls-food-on-weight-1](https://github.com/huambra/Personal-Fitness-Dashboard/blob/master/Visualizations/restuls-food-on-weight-1.jpg)
 
 Exercise also plays an important part in gaining weight, as we can see in the figure, I tend to gain weight when I was the most active and stop gaining weight when I wasn’t properly moving.
+
 ![restuls-exercise-on-weight-1](https://github.com/huambra/Personal-Fitness-Dashboard/blob/master/Visualizations/restuls-exercise-on-weight-1.jpg)
 
 Alcohol consumption was able to have a direct impact on my weight practically overnight. As we can see in the figure, the biggest weight drop was due to a night of excessive alcohol.
+
 ![restuls-alcohol-on-weight-1](https://github.com/huambra/Personal-Fitness-Dashboard/blob/master/Visualizations/restuls-alcohol-on-weight-1.jpg)
 
 Parties also influenced my weight as they determined my hours of quality sleep. Sometimes parties relate to alcohol consumption, so we can see that a full night of party will most likely be accompanied by alcohol. The combination of these 2 had by far the worst effects on my body, and affected other habits, as the next day I wouldn’t want to eat all my meals or exercise.  We can clearly see this in the figure: 
+
 ![restuls-parties-on-weight-1](https://github.com/huambra/Personal-Fitness-Dashboard/blob/master/Visualizations/restuls-parties-on-weight-1.jpg)
 
 ## Conclutions
